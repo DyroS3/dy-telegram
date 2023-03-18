@@ -3,6 +3,10 @@
 
 ## 视频演示：None
 
+## 插件依赖
+- [ox_lib](https://github.com/overextended/ox_lib "ox_lib") 
+> ox_lib用于触发提醒ui, 如修改其他提醒请自行修改
+
 ## 插件详情：
 - 数据库存储
 - 多点位卡车生成配置
